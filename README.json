@@ -1,0 +1,275 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Community"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "giscus",
+          "description": "A comments widget built on GitHub Discussions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-26T22:20:10Z",
+            "owner": "giscus",
+            "repo": "giscus",
+            "stars": 12016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gitment",
+          "description": "Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-05T06:10:40Z",
+            "owner": "imsun",
+            "repo": "gitment",
+            "stars": 4047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Staticman",
+          "description": "Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-24T16:29:25Z",
+            "owner": "eduardoboucas",
+            "repo": "staticman",
+            "stars": 2451
+          }
+        }
+      ],
+      "title": "Comments"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Forms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Utterences",
+          "description": "A lightweight comments widget built on GitHub issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-15T15:04:06Z",
+            "owner": "utterance",
+            "repo": "utterances",
+            "stars": 9694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Issues",
+          "description": "This is an interesting way for developers to get comments/questions. See github.com/sindresorhus/ama for an example.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-24T07:05:30Z",
+            "owner": "sindresorhus",
+            "repo": "ama",
+            "stars": 144
+          }
+        }
+      ],
+      "title": "Normal Forms"
+    },
+    {
+      "description": "Self-hosted:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flexsearch",
+          "description": "Next-Generation full text search library for Browser and Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-28T18:05:03Z",
+            "owner": "nextapps-de",
+            "repo": "flexsearch",
+            "stars": 13772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minisearch",
+          "description": "Tiny and powerful JavaScript full-text search engine for browser and Node",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-16T12:43:59Z",
+            "owner": "lucaong",
+            "repo": "minisearch",
+            "stars": 6092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinysearch",
+          "description": "Tiny, full-text search engine for static websites built with Rust and Wasm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-03T20:27:41Z",
+            "owner": "tinysearch",
+            "repo": "tinysearch",
+            "stars": 2954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuzzysearch",
+          "description": "Tiny and blazing-fast fuzzy search in JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-31T04:51:39Z",
+            "owner": "bevacqua",
+            "repo": "fuzzysearch",
+            "stars": 2742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "search-index",
+          "description": "A persistent, network resilient, full text search library for the browser and Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T09:59:00Z",
+            "owner": "fergiemcdowall",
+            "repo": "search-index",
+            "stars": 1423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuzzy",
+          "description": "Fuzzy search / filter for browser and node",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-20T07:11:22Z",
+            "owner": "mattyork",
+            "repo": "fuzzy",
+            "stars": 835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "itemsjs",
+          "description": "Full text, faceted, almost dependency free search engine in javascript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-25T08:47:20Z",
+            "owner": "itemsapi",
+            "repo": "itemsjs",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "static-search",
+          "description": "A Go program to generate JSON index of HTML files, and a JavaScript component with optional UI to search this index",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-09-03T15:16:59Z",
+            "owner": "dchest",
+            "repo": "static-search",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hulipaa",
+          "description": "Static full-text search engine capable of handling thousands of pages with a minimalist searchbar UI to add to your static website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-17T21:17:38Z",
+            "owner": "sambuccid",
+            "repo": "hulipaa",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Search"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Static Hosting",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T00:22:46Z",
+            "owner": "MooseTheRebel",
+            "repo": "awesome-static-hosting-and-cms",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Azure Static Web Apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-13T09:52:19Z",
+            "owner": "staticwebdev",
+            "repo": "awesome-azure-static-web-apps",
+            "stars": 94
+          }
+        }
+      ],
+      "title": "Related Lists"
+    },
+    {
+      "description": "To the extent possible under law, Adam Garrett-Harris has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:35.079Z",
+    "original_repository": "agarrharr/awesome-static-website-services",
+    "original_repository_sha": "65bf71cdf20d27fa0ddae93579742bdc4d4ad711",
+    "enhanced_repository": "enhansome/enhansome-static-website-services",
+    "enhanced_repository_description": null,
+    "title": "Awesome Static Website Services with stars"
+  }
+}
