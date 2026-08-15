@@ -19,7 +19,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12023
+            "stars": 12024
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2025-09-16T12:43:59Z",
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6092
+            "stars": 6093
           }
         },
         {
@@ -131,7 +131,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T15:02:56Z",
+            "last_commit": "2026-08-14T19:03:36Z",
             "owner": "tinysearch",
             "repo": "tinysearch",
             "stars": 2954
@@ -265,7 +265,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:13:58.796Z",
+    "last_updated": "2026-08-15T14:46:06.290Z",
     "original_repository": "agarrharr/awesome-static-website-services",
     "original_repository_sha": "65bf71cdf20d27fa0ddae93579742bdc4d4ad711",
     "enhanced_repository": "enhansome/enhansome-static-website-services",
