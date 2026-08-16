@@ -72,7 +72,7 @@
             "last_commit": "2024-08-15T15:04:06Z",
             "owner": "utterance",
             "repo": "utterances",
-            "stars": 9691
+            "stars": 9690
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2026-06-28T18:05:03Z",
             "owner": "nextapps-de",
             "repo": "flexsearch",
-            "stars": 13774
+            "stars": 13773
           }
         },
         {
@@ -131,10 +131,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T19:03:36Z",
+            "last_commit": "2026-08-15T16:16:50Z",
             "owner": "tinysearch",
             "repo": "tinysearch",
-            "stars": 2954
+            "stars": 2955
           }
         },
         {
@@ -190,7 +190,7 @@
             "last_commit": "2025-11-25T08:47:20Z",
             "owner": "itemsapi",
             "repo": "itemsjs",
-            "stars": 403
+            "stars": 404
           }
         },
         {
@@ -265,7 +265,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:46:06.290Z",
+    "last_updated": "2026-08-16T14:46:19.378Z",
     "original_repository": "agarrharr/awesome-static-website-services",
     "original_repository_sha": "65bf71cdf20d27fa0ddae93579742bdc4d4ad711",
     "enhanced_repository": "enhansome/enhansome-static-website-services",
