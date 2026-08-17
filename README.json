@@ -19,7 +19,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12024
+            "stars": 12027
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2024-08-15T15:04:06Z",
             "owner": "utterance",
             "repo": "utterances",
-            "stars": 9690
+            "stars": 9691
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2026-06-28T18:05:03Z",
             "owner": "nextapps-de",
             "repo": "flexsearch",
-            "stars": 13773
+            "stars": 13775
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2025-09-16T12:43:59Z",
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6093
+            "stars": 6094
           }
         },
         {
@@ -190,7 +190,7 @@
             "last_commit": "2025-11-25T08:47:20Z",
             "owner": "itemsapi",
             "repo": "itemsjs",
-            "stars": 404
+            "stars": 407
           }
         },
         {
@@ -265,7 +265,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:46:19.378Z",
+    "last_updated": "2026-08-17T14:52:58.727Z",
     "original_repository": "agarrharr/awesome-static-website-services",
     "original_repository_sha": "65bf71cdf20d27fa0ddae93579742bdc4d4ad711",
     "enhanced_repository": "enhansome/enhansome-static-website-services",
