@@ -19,7 +19,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12027
+            "stars": 12031
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2024-08-15T15:04:06Z",
             "owner": "utterance",
             "repo": "utterances",
-            "stars": 9691
+            "stars": 9692
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2025-09-16T12:43:59Z",
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6094
+            "stars": 6096
           }
         },
         {
@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T12:31:48Z",
+            "last_commit": "2026-08-18T08:15:56Z",
             "owner": "fergiemcdowall",
             "repo": "search-index",
-            "stars": 1423
+            "stars": 1422
           }
         },
         {
@@ -265,7 +265,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:52:58.727Z",
+    "last_updated": "2026-08-18T15:00:04.531Z",
     "original_repository": "agarrharr/awesome-static-website-services",
     "original_repository_sha": "65bf71cdf20d27fa0ddae93579742bdc4d4ad711",
     "enhanced_repository": "enhansome/enhansome-static-website-services",
