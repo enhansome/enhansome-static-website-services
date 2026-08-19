@@ -71,7 +71,7 @@
                     "last_commit": "2024-08-15T15:04:06Z",
                     "owner": "utterance",
                     "repo": "utterances",
-                    "stars": 9691
+                    "stars": 9690
                   }
                 },
                 {
@@ -132,7 +132,7 @@
             "last_commit": "2025-09-16T12:43:59Z",
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6098
+            "stars": 6099
           }
         },
         {
@@ -281,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:52:51.512Z",
+    "last_updated": "2026-08-19T15:00:31.937Z",
     "original_repository": "agarrharr/awesome-static-website-services",
     "original_repository_id": 31401471,
     "original_repository_sha": "65bf71cdf20d27fa0ddae93579742bdc4d4ad711",
