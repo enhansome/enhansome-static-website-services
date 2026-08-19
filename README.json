@@ -1,99 +1,109 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "giscus",
+              "description": "A comments widget built on GitHub Discussions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351958053,
+                "language": "TypeScript",
+                "last_commit": "2026-05-26T22:20:10Z",
+                "owner": "giscus",
+                "repo": "giscus",
+                "stars": 12035
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gitment",
+              "description": "Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86265277,
+                "language": "JavaScript",
+                "last_commit": "2021-10-05T06:10:40Z",
+                "owner": "imsun",
+                "repo": "gitment",
+                "stars": 4046
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Staticman",
+              "description": "Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38880555,
+                "language": "JavaScript",
+                "last_commit": "2024-04-24T16:29:25Z",
+                "owner": "eduardoboucas",
+                "repo": "staticman",
+                "stars": 2451
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Comments"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Utterences",
+                  "description": "A lightweight comments widget built on GitHub issues.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 89116094,
+                    "language": "TypeScript",
+                    "last_commit": "2024-08-15T15:04:06Z",
+                    "owner": "utterance",
+                    "repo": "utterances",
+                    "stars": 9691
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GitHub Issues",
+                  "description": "This is an interesting way for developers to get comments/questions. See github.com/sindresorhus/ama for an example.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 38368663,
+                    "language": null,
+                    "last_commit": "2021-01-24T07:05:30Z",
+                    "owner": "sindresorhus",
+                    "repo": "ama",
+                    "stars": 144
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Normal Forms"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Forms"
+        }
+      ],
       "title": "Community"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "giscus",
-          "description": "A comments widget built on GitHub Discussions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-26T22:20:10Z",
-            "owner": "giscus",
-            "repo": "giscus",
-            "stars": 12031
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gitment",
-          "description": "Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-10-05T06:10:40Z",
-            "owner": "imsun",
-            "repo": "gitment",
-            "stars": 4046
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Staticman",
-          "description": "Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-04-24T16:29:25Z",
-            "owner": "eduardoboucas",
-            "repo": "staticman",
-            "stars": 2451
-          }
-        }
-      ],
-      "title": "Comments"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Forms"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Utterences",
-          "description": "A lightweight comments widget built on GitHub issues.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-08-15T15:04:06Z",
-            "owner": "utterance",
-            "repo": "utterances",
-            "stars": 9692
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub Issues",
-          "description": "This is an interesting way for developers to get comments/questions. See github.com/sindresorhus/ama for an example.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-01-24T07:05:30Z",
-            "owner": "sindresorhus",
-            "repo": "ama",
-            "stars": 144
-          }
-        }
-      ],
-      "title": "Normal Forms"
-    },
-    {
-      "description": "Self-hosted:",
+      "description": "Self-hosted:\nThird party integration:",
       "items": [
         {
           "node_type": "item",
@@ -102,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122835005,
             "language": "JavaScript",
             "last_commit": "2026-06-28T18:05:03Z",
             "owner": "nextapps-de",
@@ -116,11 +127,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149144662,
             "language": "TypeScript",
             "last_commit": "2025-09-16T12:43:59Z",
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6096
+            "stars": 6098
           }
         },
         {
@@ -130,11 +142,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119272629,
             "language": "Rust",
             "last_commit": "2026-08-15T16:16:50Z",
             "owner": "tinysearch",
             "repo": "tinysearch",
-            "stars": 2955
+            "stars": 2956
           }
         },
         {
@@ -144,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31618003,
             "language": "JavaScript",
             "last_commit": "2023-05-31T04:51:39Z",
             "owner": "bevacqua",
@@ -158,8 +172,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11170365,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T08:15:56Z",
+            "last_commit": "2026-08-19T11:25:33Z",
             "owner": "fergiemcdowall",
             "repo": "search-index",
             "stars": 1422
@@ -172,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5054664,
             "language": "JavaScript",
             "last_commit": "2021-12-20T07:11:22Z",
             "owner": "mattyork",
@@ -186,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86909392,
             "language": "JavaScript",
             "last_commit": "2025-11-25T08:47:20Z",
             "owner": "itemsapi",
@@ -200,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 15436166,
             "language": "JavaScript",
             "last_commit": "2016-09-03T15:16:59Z",
             "owner": "dchest",
@@ -214,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 544501180,
             "language": null,
             "last_commit": "2025-08-17T21:17:38Z",
             "owner": "sambuccid",
@@ -225,7 +244,7 @@
       "title": "Search"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -234,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81833903,
             "language": "Python",
             "last_commit": "2026-06-22T00:22:46Z",
             "owner": "MooseTheRebel",
@@ -248,25 +268,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317926925,
             "language": null,
             "last_commit": "2022-12-13T09:52:19Z",
             "owner": "staticwebdev",
             "repo": "awesome-azure-static-web-apps",
-            "stars": 94
+            "stars": 95
           }
         }
       ],
       "title": "Related Lists"
-    },
-    {
-      "description": "To the extent possible under law, Adam Garrett-Harris has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:00:04.531Z",
+    "last_updated": "2026-08-19T12:52:51.512Z",
     "original_repository": "agarrharr/awesome-static-website-services",
+    "original_repository_id": 31401471,
     "original_repository_sha": "65bf71cdf20d27fa0ddae93579742bdc4d4ad711",
     "enhanced_repository": "enhansome/enhansome-static-website-services",
     "enhanced_repository_description": null,
