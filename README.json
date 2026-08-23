@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-26T22:20:10Z",
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12048
+                "stars": 12051
               }
             },
             {
@@ -117,7 +117,7 @@
             "last_commit": "2026-06-28T18:05:03Z",
             "owner": "nextapps-de",
             "repo": "flexsearch",
-            "stars": 13777
+            "stars": 13779
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2025-09-16T12:43:59Z",
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6102
+            "stars": 6104
           }
         },
         {
@@ -281,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:45:26.851Z",
+    "last_updated": "2026-08-23T14:47:04.565Z",
     "original_repository": "agarrharr/awesome-static-website-services",
     "original_repository_id": 31401471,
     "original_repository_sha": "65bf71cdf20d27fa0ddae93579742bdc4d4ad711",
