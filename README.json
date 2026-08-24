@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-26T22:20:10Z",
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12051
+                "stars": 12053
               }
             },
             {
@@ -61,6 +61,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Brisk Forms",
+                  "description": "Free form submission service emails you responses while keeping your email address private and is open source.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 51909028,
+                    "language": "Ruby",
+                    "last_commit": "2020-06-05T14:52:02Z",
+                    "owner": "stevensona",
+                    "repo": "briskforms",
+                    "stars": 41
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Really Simple Forms"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Utterences",
                   "description": "A lightweight comments widget built on GitHub issues.",
                   "children": [],
@@ -71,7 +93,7 @@
                     "last_commit": "2024-08-15T15:04:06Z",
                     "owner": "utterance",
                     "repo": "utterances",
-                    "stars": 9692
+                    "stars": 9693
                   }
                 },
                 {
@@ -281,7 +303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:47:04.565Z",
+    "last_updated": "2026-08-24T14:11:00.997Z",
     "original_repository": "agarrharr/awesome-static-website-services",
     "original_repository_id": 31401471,
     "original_repository_sha": "65bf71cdf20d27fa0ddae93579742bdc4d4ad711",

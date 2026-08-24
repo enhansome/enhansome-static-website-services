@@ -2,7 +2,7 @@
 
 > A curated list of services for static websites.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,170 | 🐛 106 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,512 | 🐛 106 | 📅 2026-08-21 list thing.
 
 ## Table of Contents
 
@@ -110,7 +110,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,170 |
 
 ### Comments
 
-* [giscus](https://github.com/laymonage/giscus) ⭐ 12,051 | 🐛 126 | 🌐 TypeScript | 📅 2026-05-26 - A comments widget built on GitHub Discussions.
+* [giscus](https://github.com/laymonage/giscus) ⭐ 12,053 | 🐛 126 | 🌐 TypeScript | 📅 2026-05-26 - A comments widget built on GitHub Discussions.
 * [Gitment](https://github.com/imsun/gitment) ⭐ 4,046 | 🐛 138 | 🌐 JavaScript | 📅 2021-10-05 - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
 * [Staticman](https://github.com/eduardoboucas/staticman) ⭐ 2,451 | 🐛 131 | 🌐 JavaScript | 📅 2024-04-24 - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
 * [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
@@ -125,12 +125,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,170 |
 
 #### Really Simple Forms
 
+* [Brisk Forms](https://github.com/stevensona/briskforms) ⚠️ Archived - Free form submission service emails you responses while keeping your email address private and is open source.
 * [Formspree](http://formspree.io/) - Receive emails from a form on your static website.
 * [elFormo](https://www.elformo.com/) - Simple form processing and response retrieval via email.
 * [Flipmail](http://flipmail.co/) - Simple form processing and response retrieval via email.
 * [MailThis](http://mailthis.to/) - Simple form submissions via email with optional attachments.
 * [Simple Form](https://getsimpleform.com/) - Simple forms with optional file attachments, email notifications, and online submission viewing.
-* [Brisk Forms](https://github.com/stevensona/briskforms) ⚠️ Archived - Free form submission service emails you responses while keeping your email address private and is open source.
 * [99 Inbound](https://www.99inbound.com) - Form endpoint service with email/Slack notifications and third party app integrations (e.g. MailChimp)
 * [Getform](http://getform.io/) - Form backend platform for designers and developers, with email and integrations.
 * [HeyForm](https://heyform.net/) - Free, easy-to-use drag & drop form maker capable of crafting powerful online forms. Includes 40+ field types, integrations, analytics, and more.
@@ -138,7 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,170 |
 
 #### Normal Forms
 
-* [Utterences](https://github.com/utterance/utterances) ⭐ 9,692 | 🐛 173 | 🌐 TypeScript | 📅 2024-08-15 - A lightweight comments widget built on GitHub issues.
+* [Utterences](https://github.com/utterance/utterances) ⭐ 9,693 | 🐛 173 | 🌐 TypeScript | 📅 2024-08-15 - A lightweight comments widget built on GitHub issues.
 * [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) ⭐ 144 | 🐛 154 | 📅 2021-01-24 for an example.
 * [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
 * [Formcake](https://formcake.com) - The form backend built for developers: Zapier integrations, simple endpoint API, unlimited forms.
@@ -275,4 +275,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
