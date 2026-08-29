@@ -12,12 +12,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:",
+                "homepage": "https://giscus.app",
                 "id": 351958053,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-26T22:20:10Z",
+                "open_issues": 127,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12064
+                "stars": 12063,
+                "topics": [
+                  "blog",
+                  "comment-system",
+                  "comments",
+                  "comments-widget",
+                  "giscus",
+                  "github",
+                  "github-discussions",
+                  "hacktoberfest",
+                  "javascript",
+                  "nextjs",
+                  "react",
+                  "reactjs",
+                  "utterances",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-28T23:36:00.363Z"
             },
@@ -28,12 +48,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comment system based on GitHub Issues.",
+                "homepage": "https://imsun.github.io/gitment/",
                 "id": 86265277,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-10-05T06:10:40Z",
+                "open_issues": 138,
                 "owner": "imsun",
                 "repo": "gitment",
-                "stars": 4046
+                "stars": 4046,
+                "topics": [
+                  "comments",
+                  "github-blog",
+                  "github-issues"
+                ]
               },
               "first_seen": "2026-08-28T23:36:00.363Z"
             },
@@ -44,12 +73,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💪  User-generated content for Git-powered websites",
+                "homepage": null,
                 "id": 38880555,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-24T16:29:25Z",
+                "open_issues": 131,
                 "owner": "eduardoboucas",
                 "repo": "staticman",
-                "stars": 2451
+                "stars": 2451,
+                "topics": [
+                  "hugo",
+                  "jekyll",
+                  "metalsmith",
+                  "middleman",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-28T23:36:00.363Z"
             }
@@ -69,12 +109,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Free HTML form submission service",
+                    "homepage": null,
                     "id": 51909028,
                     "language": "Ruby",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-06-05T14:52:02Z",
+                    "open_issues": 15,
                     "owner": "stevensona",
                     "repo": "briskforms",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:36:00.363Z"
                 }
@@ -92,12 +137,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":crystal_ball: A lightweight comments widget built on GitHub issues",
+                    "homepage": "https://utteranc.es",
                     "id": 89116094,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-08-15T15:04:06Z",
+                    "open_issues": 173,
                     "owner": "utterance",
                     "repo": "utterances",
-                    "stars": 9693
+                    "stars": 9693,
+                    "topics": [
+                      "blog",
+                      "comments",
+                      "comments-widget",
+                      "github",
+                      "utterances"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:36:00.363Z"
                 },
@@ -108,12 +164,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[[I'm slow at replying these days, but I hope to get back to answering questions eventually]] Ask me anything!",
+                    "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
                     "id": 38368663,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-01-24T07:05:30Z",
+                    "open_issues": 154,
                     "owner": "sindresorhus",
                     "repo": "ama",
-                    "stars": 144
+                    "stars": 144,
+                    "topics": [
+                      "ama",
+                      "answers",
+                      "ask",
+                      "ask-me-anything",
+                      "meta",
+                      "open-content",
+                      "personal",
+                      "question-answering",
+                      "questions",
+                      "questions-and-answers"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:36:00.363Z"
                 }
@@ -140,12 +212,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next-generation full-text search library for Browser and Node.js",
+            "homepage": null,
             "id": 122835005,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-28T18:05:03Z",
+            "open_issues": 38,
             "owner": "nextapps-de",
             "repo": "flexsearch",
-            "stars": 13784
+            "stars": 13784,
+            "topics": [
+              "elasticsearch",
+              "full-text-search",
+              "fulltext-search",
+              "fuzzy",
+              "fuzzy-search",
+              "javascript",
+              "javascript-library",
+              "nodejs",
+              "open-source",
+              "search",
+              "search-algorithm",
+              "search-engine",
+              "search-in-text",
+              "searching",
+              "searching-algorithms",
+              "web",
+              "web-worker"
+            ]
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
         },
@@ -156,12 +251,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny and powerful JavaScript full-text search engine for browser and Node",
+            "homepage": "https://lucaong.github.io/minisearch/",
             "id": 149144662,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-16T12:43:59Z",
+            "open_issues": 13,
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6116
+            "stars": 6116,
+            "topics": [
+              "autocomplete",
+              "autosuggestion",
+              "edge-computing",
+              "fulltext-search",
+              "fuzzy-search",
+              "javascript",
+              "search",
+              "search-engine",
+              "text-search",
+              "typo-tolerance"
+            ]
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
         },
@@ -172,12 +283,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 Tiny, full-text search engine for static websites built with Rust and Wasm",
+            "homepage": "https://endler.dev/2019/tinysearch",
             "id": 119272629,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T16:16:50Z",
+            "open_issues": 3,
             "owner": "tinysearch",
             "repo": "tinysearch",
-            "stars": 2965
+            "stars": 2965,
+            "topics": [
+              "bloom-filter",
+              "elasticlunr",
+              "hacktoberfest",
+              "lunrjs",
+              "rust",
+              "search-engine",
+              "static-site",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
         },
@@ -188,12 +313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":crystal_ball: Tiny and blazing-fast fuzzy search in JavaScript",
+            "homepage": "https://ponyfoo.com",
             "id": 31618003,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-05-31T04:51:39Z",
+            "open_issues": 5,
             "owner": "bevacqua",
             "repo": "fuzzysearch",
-            "stars": 2742
+            "stars": 2742,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
         },
@@ -204,12 +334,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A persistent, network resilient, full text search library for the browser and Node.js",
+            "homepage": null,
             "id": 11170365,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T11:25:33Z",
+            "open_issues": 4,
             "owner": "fergiemcdowall",
             "repo": "search-index",
-            "stars": 1421
+            "stars": 1421,
+            "topics": [
+              "nlp",
+              "offline-first",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
         },
@@ -220,12 +359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Filters a list based on a fuzzy string search",
+            "homepage": null,
             "id": 5054664,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-12-20T07:11:22Z",
+            "open_issues": 29,
             "owner": "mattyork",
             "repo": "fuzzy",
-            "stars": 835
+            "stars": 835,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
         },
@@ -236,12 +380,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extremely fast faceted search engine in JavaScript - lightweight, flexible, and simple to use",
+            "homepage": null,
             "id": 86909392,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-25T08:47:20Z",
+            "open_issues": 0,
             "owner": "itemsapi",
             "repo": "itemsjs",
-            "stars": 407
+            "stars": 407,
+            "topics": [
+              "aggregations",
+              "faceted-search",
+              "facets",
+              "filters",
+              "fulltext-search",
+              "javascript",
+              "lightweight",
+              "reindex",
+              "search-engine",
+              "solr"
+            ]
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
         },
@@ -252,12 +412,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple client-side static search engine (Go indexer, JavaScript searcher).",
+            "homepage": null,
             "id": 15436166,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-09-03T15:16:59Z",
+            "open_issues": 0,
             "owner": "dchest",
             "repo": "static-search",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
         },
@@ -268,12 +433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 544501180,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-17T21:17:38Z",
+            "open_issues": 0,
             "owner": "sambuccid",
             "repo": "hulipaa",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
         }
@@ -290,12 +460,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome static hosting & CMS providers",
+            "homepage": "https://moosetherebel.github.io/awesome-static-hosting-and-cms/",
             "id": 81833903,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-22T00:22:46Z",
+            "open_issues": 5,
             "owner": "MooseTheRebel",
             "repo": "awesome-static-hosting-and-cms",
-            "stars": 311
+            "stars": 311,
+            "topics": [
+              "ghost",
+              "gitlab",
+              "hexo",
+              "hosting",
+              "hugo",
+              "jekyll",
+              "static-site"
+            ]
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
         },
@@ -306,12 +489,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of resources for Azure Static Web Apps",
+            "homepage": null,
             "id": 317926925,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-12-13T09:52:19Z",
+            "open_issues": 0,
             "owner": "staticwebdev",
             "repo": "awesome-azure-static-web-apps",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "awesome-list",
+              "azure-static-web-apps"
+            ]
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
         }
@@ -320,15 +511,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:36:00.363Z",
+    "last_updated": "2026-08-29T04:26:24.991Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📄 🛠 A curated list of awesome static websites services",
+      "homepage": null,
       "id": 31401471,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-20T16:35:39Z",
+      "open_issues": 36,
       "owner": "agarrharr",
       "repo": "awesome-static-website-services",
-      "stars": 1984
+      "stars": 1984,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list"
+      ]
     },
     "original_repository_sha": "65bf71cdf20d27fa0ddae93579742bdc4d4ad711",
     "enhanced_repository": "enhansome/enhansome-static-website-services",
