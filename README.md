@@ -2,7 +2,7 @@
 
 > A curated list of services for static websites.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,085 | 🐛 105 | 📅 2026-08-21 list thing.
 
 ## Table of Contents
 
@@ -110,8 +110,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 |
 
 ### Comments
 
-* [giscus](https://github.com/laymonage/giscus) ⭐ 12,063 | 🐛 127 | 🌐 TypeScript | 📅 2026-05-26 - A comments widget built on GitHub Discussions.
-* [Gitment](https://github.com/imsun/gitment) ⭐ 4,046 | 🐛 138 | 🌐 JavaScript | 📅 2021-10-05 - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
+* [giscus](https://github.com/laymonage/giscus) ⭐ 12,064 | 🐛 127 | 🌐 TypeScript | 📅 2026-05-26 - A comments widget built on GitHub Discussions.
+* [Gitment](https://github.com/imsun/gitment) ⭐ 4,047 | 🐛 138 | 🌐 JavaScript | 📅 2021-10-05 - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
 * [Staticman](https://github.com/eduardoboucas/staticman) ⭐ 2,451 | 🐛 131 | 🌐 JavaScript | 📅 2024-04-24 - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
 * [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
 * [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - Embeddable comments for your site by Facebook.
@@ -222,12 +222,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 |
 Self-hosted:
 
 * [flexsearch](https://github.com/nextapps-de/flexsearch) ⭐ 13,784 | 🐛 38 | 🌐 JavaScript | 📅 2026-06-28 - Next-Generation full text search library for Browser and Node.js
-* [minisearch](https://github.com/lucaong/minisearch) ⭐ 6,116 | 🐛 13 | 🌐 TypeScript | 📅 2025-09-16 - Tiny and powerful JavaScript full-text search engine for browser and Node
+* [minisearch](https://github.com/lucaong/minisearch) ⭐ 6,118 | 🐛 13 | 🌐 TypeScript | 📅 2025-09-16 - Tiny and powerful JavaScript full-text search engine for browser and Node
 * [tinysearch](https://github.com/tinysearch/tinysearch) ⭐ 2,965 | 🐛 3 | 🌐 Rust | 📅 2026-08-15 - Tiny, full-text search engine for static websites built with Rust and Wasm
 * [fuzzysearch](https://github.com/bevacqua/fuzzysearch) ⭐ 2,742 | 🐛 5 | 🌐 JavaScript | 📅 2023-05-31 - Tiny and blazing-fast fuzzy search in JavaScript
 * [search-index](https://github.com/fergiemcdowall/search-index) ⭐ 1,421 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-19 - A persistent, network resilient, full text search library for the browser and Node.js
 * [fuzzy](https://github.com/mattyork/fuzzy) ⭐ 835 | 🐛 29 | 🌐 JavaScript | 📅 2021-12-20 - Fuzzy search / filter for browser and node
-* [itemsjs](https://github.com/itemsapi/itemsjs) ⭐ 407 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-25 - Full text, faceted, almost dependency free search engine in javascript
+* [itemsjs](https://github.com/itemsapi/itemsjs) ⭐ 408 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-25 - Full text, faceted, almost dependency free search engine in javascript
 * [static-search](https://github.com/dchest/static-search) ⚠️ Archived - A Go program to generate JSON index of HTML files, and a JavaScript component with optional UI to search this index
 * [Hulipaa](https://github.com/sambuccid/hulipaa) ⭐ 1 | 🐛 0 | 📅 2025-08-17 - Static full-text search engine capable of handling thousands of pages with a minimalist searchbar UI to add to your static website.
 * [lunr.js](http://lunrjs.com/) - Simple full-text search in your browser.
