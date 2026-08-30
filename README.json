@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12064,
+                "stars": 12066,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -260,7 +260,7 @@
             "open_issues": 13,
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6118,
+            "stars": 6119,
             "topics": [
               "autocomplete",
               "autosuggestion",
@@ -343,7 +343,7 @@
             "open_issues": 4,
             "owner": "fergiemcdowall",
             "repo": "search-index",
-            "stars": 1421,
+            "stars": 1422,
             "topics": [
               "nlp",
               "offline-first",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:45:56.969Z",
+    "last_updated": "2026-08-30T18:07:29.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "📄 🛠 A curated list of awesome static websites services",
@@ -523,7 +523,7 @@
       "open_issues": 36,
       "owner": "agarrharr",
       "repo": "awesome-static-website-services",
-      "stars": 1984,
+      "stars": 1985,
       "topics": [
         "awesome",
         "awesome-list",
