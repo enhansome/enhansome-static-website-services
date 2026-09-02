@@ -2,7 +2,7 @@
 
 > A curated list of services for static websites.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,981 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,328 | 🐛 105 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -87,7 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,981 |
 
 ## Functions as a Service
 
-* [1Backend](https://github.com/1backend/1backend) ⭐ 2,342 | 🐛 1 | 🌐 Go | 📅 2026-05-27 - Deploy your backend in seconds. Free tier included. Open source.
+* [1Backend](https://github.com/1backend/1backend) ⭐ 2,342 | 🐛 2 | 🌐 Go | 📅 2026-05-27 - Deploy your backend in seconds. Free tier included. Open source.
 * [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
 * [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
 * [Webtask by Auth0](https://webtask.io/) - Call code on the server with simple HTTP, easier to set up by far than Lambda or Google's
@@ -110,7 +110,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,981 |
 
 ### Comments
 
-* [giscus](https://github.com/laymonage/giscus) ⭐ 12,067 | 🐛 127 | 🌐 TypeScript | 📅 2026-05-26 - A comments widget built on GitHub Discussions.
+* [giscus](https://github.com/laymonage/giscus) ⭐ 12,068 | 🐛 127 | 🌐 TypeScript | 📅 2026-05-26 - A comments widget built on GitHub Discussions.
 * [Gitment](https://github.com/imsun/gitment) ⭐ 4,047 | 🐛 138 | 🌐 JavaScript | 📅 2021-10-05 - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
 * [Staticman](https://github.com/eduardoboucas/staticman) ⭐ 2,451 | 🐛 131 | 🌐 JavaScript | 📅 2024-04-24 - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
 * [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
@@ -138,7 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,981 |
 
 #### Normal Forms
 
-* [Utterences](https://github.com/utterance/utterances) ⭐ 9,693 | 🐛 172 | 🌐 TypeScript | 📅 2024-08-15 - A lightweight comments widget built on GitHub issues.
+* [Utterences](https://github.com/utterance/utterances) ⭐ 9,692 | 🐛 172 | 🌐 TypeScript | 📅 2024-08-15 - A lightweight comments widget built on GitHub issues.
 * [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) ⭐ 144 | 🐛 154 | 📅 2021-01-24 for an example.
 * [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
 * [Formcake](https://formcake.com) - The form backend built for developers: Zapier integrations, simple endpoint API, unlimited forms.
@@ -221,8 +221,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,981 |
 
 Self-hosted:
 
-* [flexsearch](https://github.com/nextapps-de/flexsearch) ⭐ 13,789 | 🐛 38 | 🌐 JavaScript | 📅 2026-06-28 - Next-Generation full text search library for Browser and Node.js
-* [minisearch](https://github.com/lucaong/minisearch) ⭐ 6,119 | 🐛 13 | 🌐 TypeScript | 📅 2025-09-16 - Tiny and powerful JavaScript full-text search engine for browser and Node
+* [flexsearch](https://github.com/nextapps-de/flexsearch) ⭐ 13,791 | 🐛 38 | 🌐 JavaScript | 📅 2026-06-28 - Next-Generation full text search library for Browser and Node.js
+* [minisearch](https://github.com/lucaong/minisearch) ⭐ 6,124 | 🐛 13 | 🌐 TypeScript | 📅 2025-09-16 - Tiny and powerful JavaScript full-text search engine for browser and Node
 * [tinysearch](https://github.com/tinysearch/tinysearch) ⭐ 2,965 | 🐛 3 | 🌐 Rust | 📅 2026-08-15 - Tiny, full-text search engine for static websites built with Rust and Wasm
 * [fuzzysearch](https://github.com/bevacqua/fuzzysearch) ⭐ 2,742 | 🐛 5 | 🌐 JavaScript | 📅 2023-05-31 - Tiny and blazing-fast fuzzy search in JavaScript
 * [search-index](https://github.com/fergiemcdowall/search-index) ⭐ 1,422 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-19 - A persistent, network resilient, full text search library for the browser and Node.js
@@ -275,4 +275,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
