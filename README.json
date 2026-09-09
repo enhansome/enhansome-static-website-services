@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12083,
+                "stars": 12087,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -57,7 +57,7 @@
                 "open_issues": 138,
                 "owner": "imsun",
                 "repo": "gitment",
-                "stars": 4045,
+                "stars": 4046,
                 "topics": [
                   "comments",
                   "github-blog",
@@ -82,7 +82,7 @@
                 "open_issues": 131,
                 "owner": "eduardoboucas",
                 "repo": "staticman",
-                "stars": 2451,
+                "stars": 2450,
                 "topics": [
                   "hugo",
                   "jekyll",
@@ -322,7 +322,7 @@
             "open_issues": 5,
             "owner": "bevacqua",
             "repo": "fuzzysearch",
-            "stars": 2741,
+            "stars": 2740,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
@@ -343,7 +343,7 @@
             "open_issues": 6,
             "owner": "fergiemcdowall",
             "repo": "search-index",
-            "stars": 1422,
+            "stars": 1421,
             "topics": [
               "nlp",
               "offline-first",
@@ -389,7 +389,7 @@
             "open_issues": 0,
             "owner": "itemsapi",
             "repo": "itemsjs",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "aggregations",
               "faceted-search",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:58:43.438Z",
+    "last_updated": "2026-09-09T17:53:21.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "📄 🛠 A curated list of awesome static websites services",
