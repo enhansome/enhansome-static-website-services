@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12087,
+                "stars": 12090,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -57,7 +57,7 @@
                 "open_issues": 138,
                 "owner": "imsun",
                 "repo": "gitment",
-                "stars": 4046,
+                "stars": 4045,
                 "topics": [
                   "comments",
                   "github-blog",
@@ -221,7 +221,7 @@
             "open_issues": 38,
             "owner": "nextapps-de",
             "repo": "flexsearch",
-            "stars": 13791,
+            "stars": 13792,
             "topics": [
               "elasticsearch",
               "full-text-search",
@@ -260,7 +260,7 @@
             "open_issues": 13,
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6131,
+            "stars": 6133,
             "topics": [
               "autocomplete",
               "autosuggestion",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:53:21.374Z",
+    "last_updated": "2026-09-10T17:46:01.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "📄 🛠 A curated list of awesome static websites services",
