@@ -2,7 +2,7 @@
 
 > A curated list of services for static websites.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,094 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,378 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -222,7 +222,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,094 |
 Self-hosted:
 
 * [flexsearch](https://github.com/nextapps-de/flexsearch) ⭐ 13,792 | 🐛 38 | 🌐 JavaScript | 📅 2026-06-28 - Next-Generation full text search library for Browser and Node.js
-* [minisearch](https://github.com/lucaong/minisearch) ⭐ 6,134 | 🐛 13 | 🌐 TypeScript | 📅 2025-09-16 - Tiny and powerful JavaScript full-text search engine for browser and Node
+* [minisearch](https://github.com/lucaong/minisearch) ⭐ 6,136 | 🐛 13 | 🌐 TypeScript | 📅 2025-09-16 - Tiny and powerful JavaScript full-text search engine for browser and Node
 * [tinysearch](https://github.com/tinysearch/tinysearch) ⭐ 2,968 | 🐛 3 | 🌐 Rust | 📅 2026-08-15 - Tiny, full-text search engine for static websites built with Rust and Wasm
 * [fuzzysearch](https://github.com/bevacqua/fuzzysearch) ⭐ 2,740 | 🐛 5 | 🌐 JavaScript | 📅 2023-05-31 - Tiny and blazing-fast fuzzy search in JavaScript
 * [search-index](https://github.com/fergiemcdowall/search-index) ⭐ 1,421 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-02 - A persistent, network resilient, full text search library for the browser and Node.js
@@ -275,4 +275,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
