@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12116,
+                "stars": 12118,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -143,10 +143,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2024-08-15T15:04:06Z",
-                    "open_issues": 172,
+                    "open_issues": 173,
                     "owner": "utterance",
                     "repo": "utterances",
-                    "stars": 9695,
+                    "stars": 9696,
                     "topics": [
                       "blog",
                       "comments",
@@ -260,7 +260,7 @@
             "open_issues": 12,
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6138,
+            "stars": 6141,
             "topics": [
               "autocomplete",
               "autosuggestion",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:37:43.647Z",
+    "last_updated": "2026-09-22T18:11:02.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "📄 🛠 A curated list of awesome static websites services",
@@ -520,10 +520,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-20T16:35:39Z",
-      "open_issues": 39,
+      "open_issues": 40,
       "owner": "agarrharr",
       "repo": "awesome-static-website-services",
-      "stars": 1987,
+      "stars": 1988,
       "topics": [
         "awesome",
         "awesome-list",
