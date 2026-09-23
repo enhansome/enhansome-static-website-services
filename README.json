@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12118,
+                "stars": 12119,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -221,7 +221,7 @@
             "open_issues": 38,
             "owner": "nextapps-de",
             "repo": "flexsearch",
-            "stars": 13794,
+            "stars": 13795,
             "topics": [
               "elasticsearch",
               "full-text-search",
@@ -260,7 +260,7 @@
             "open_issues": 12,
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6141,
+            "stars": 6143,
             "topics": [
               "autocomplete",
               "autosuggestion",
@@ -292,7 +292,7 @@
             "open_issues": 3,
             "owner": "tinysearch",
             "repo": "tinysearch",
-            "stars": 2971,
+            "stars": 2972,
             "topics": [
               "bloom-filter",
               "elasticlunr",
@@ -322,7 +322,7 @@
             "open_issues": 5,
             "owner": "bevacqua",
             "repo": "fuzzysearch",
-            "stars": 2740,
+            "stars": 2739,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
@@ -368,7 +368,7 @@
             "open_issues": 29,
             "owner": "mattyork",
             "repo": "fuzzy",
-            "stars": 835,
+            "stars": 834,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:11:02.479Z",
+    "last_updated": "2026-09-23T18:29:29.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "📄 🛠 A curated list of awesome static websites services",
@@ -523,7 +523,7 @@
       "open_issues": 40,
       "owner": "agarrharr",
       "repo": "awesome-static-website-services",
-      "stars": 1988,
+      "stars": 1989,
       "topics": [
         "awesome",
         "awesome-list",
