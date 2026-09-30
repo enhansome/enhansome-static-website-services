@@ -260,7 +260,7 @@
             "open_issues": 12,
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6150,
+            "stars": 6149,
             "topics": [
               "autocomplete",
               "autosuggestion",
@@ -339,8 +339,8 @@
             "id": 11170365,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T04:56:29Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-30T09:06:59Z",
+            "open_issues": 8,
             "owner": "fergiemcdowall",
             "repo": "search-index",
             "stars": 1421,
@@ -389,7 +389,7 @@
             "open_issues": 0,
             "owner": "itemsapi",
             "repo": "itemsjs",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "aggregations",
               "faceted-search",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:31:07.881Z",
+    "last_updated": "2026-09-30T19:32:01.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "📄 🛠 A curated list of awesome static websites services",
@@ -520,10 +520,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-20T16:35:39Z",
-      "open_issues": 40,
+      "open_issues": 39,
       "owner": "agarrharr",
       "repo": "awesome-static-website-services",
-      "stars": 1990,
+      "stars": 1989,
       "topics": [
         "awesome",
         "awesome-list",
