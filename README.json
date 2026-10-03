@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12137,
+                "stars": 12138,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -221,7 +221,7 @@
             "open_issues": 38,
             "owner": "nextapps-de",
             "repo": "flexsearch",
-            "stars": 13802,
+            "stars": 13803,
             "topics": [
               "elasticsearch",
               "full-text-search",
@@ -292,7 +292,7 @@
             "open_issues": 3,
             "owner": "tinysearch",
             "repo": "tinysearch",
-            "stars": 2976,
+            "stars": 2977,
             "topics": [
               "bloom-filter",
               "elasticlunr",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:45.454Z",
+    "last_updated": "2026-10-03T18:04:53.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "📄 🛠 A curated list of awesome static websites services",
