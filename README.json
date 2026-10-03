@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12138,
+                "stars": 12137,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -456,7 +456,7 @@
         {
           "node_type": "item",
           "title": "Awesome Static Hosting",
-          "description": null,
+          "description": "MooseTheRebel/awesome-static-hosting-and-cms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -485,7 +485,7 @@
         {
           "node_type": "item",
           "title": "Awesome Azure Static Web Apps",
-          "description": null,
+          "description": "staticwebdev/awesome-azure-static-web-apps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:25:44.363Z",
+    "last_updated": "2026-10-03T05:06:45.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "📄 🛠 A curated list of awesome static websites services",
@@ -523,7 +523,7 @@
       "open_issues": 39,
       "owner": "agarrharr",
       "repo": "awesome-static-website-services",
-      "stars": 1989,
+      "stars": 1990,
       "topics": [
         "awesome",
         "awesome-list",
