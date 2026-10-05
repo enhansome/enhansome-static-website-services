@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12137,
+                "stars": 12140,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -146,7 +146,7 @@
                     "open_issues": 172,
                     "owner": "utterance",
                     "repo": "utterances",
-                    "stars": 9698,
+                    "stars": 9699,
                     "topics": [
                       "blog",
                       "comments",
@@ -221,7 +221,7 @@
             "open_issues": 38,
             "owner": "nextapps-de",
             "repo": "flexsearch",
-            "stars": 13804,
+            "stars": 13805,
             "topics": [
               "elasticsearch",
               "full-text-search",
@@ -260,7 +260,7 @@
             "open_issues": 13,
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6157,
+            "stars": 6160,
             "topics": [
               "autocomplete",
               "autosuggestion",
@@ -292,7 +292,7 @@
             "open_issues": 3,
             "owner": "tinysearch",
             "repo": "tinysearch",
-            "stars": 2977,
+            "stars": 2976,
             "topics": [
               "bloom-filter",
               "elasticlunr",
@@ -339,11 +339,11 @@
             "id": 11170365,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T09:06:59Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-05T05:53:30Z",
+            "open_issues": 9,
             "owner": "fergiemcdowall",
             "repo": "search-index",
-            "stars": 1421,
+            "stars": 1422,
             "topics": [
               "nlp",
               "offline-first",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:15:23.582Z",
+    "last_updated": "2026-10-05T21:32:47.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "📄 🛠 A curated list of awesome static websites services",
@@ -520,7 +520,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-20T16:35:39Z",
-      "open_issues": 39,
+      "open_issues": 40,
       "owner": "agarrharr",
       "repo": "awesome-static-website-services",
       "stars": 1990,
