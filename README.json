@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12145,
+                "stars": 12144,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -146,7 +146,7 @@
                     "open_issues": 172,
                     "owner": "utterance",
                     "repo": "utterances",
-                    "stars": 9699,
+                    "stars": 9698,
                     "topics": [
                       "blog",
                       "comments",
@@ -221,7 +221,7 @@
             "open_issues": 38,
             "owner": "nextapps-de",
             "repo": "flexsearch",
-            "stars": 13810,
+            "stars": 13808,
             "topics": [
               "elasticsearch",
               "full-text-search",
@@ -260,7 +260,7 @@
             "open_issues": 14,
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6165,
+            "stars": 6166,
             "topics": [
               "autocomplete",
               "autosuggestion",
@@ -322,7 +322,7 @@
             "open_issues": 5,
             "owner": "bevacqua",
             "repo": "fuzzysearch",
-            "stars": 2739,
+            "stars": 2740,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
@@ -343,7 +343,7 @@
             "open_issues": 9,
             "owner": "fergiemcdowall",
             "repo": "search-index",
-            "stars": 1422,
+            "stars": 1421,
             "topics": [
               "nlp",
               "offline-first",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:00:59.231Z",
+    "last_updated": "2026-10-09T19:36:03.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "📄 🛠 A curated list of awesome static websites services",
