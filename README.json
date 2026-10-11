@@ -260,7 +260,7 @@
             "open_issues": 14,
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6166,
+            "stars": 6169,
             "topics": [
               "autocomplete",
               "autosuggestion",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:44:39.684Z",
+    "last_updated": "2026-10-11T19:04:39.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "📄 🛠 A curated list of awesome static websites services",
