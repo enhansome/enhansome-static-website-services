@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12146,
+                "stars": 12150,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -146,7 +146,7 @@
                     "open_issues": 172,
                     "owner": "utterance",
                     "repo": "utterances",
-                    "stars": 9698,
+                    "stars": 9699,
                     "topics": [
                       "blog",
                       "comments",
@@ -292,7 +292,7 @@
             "open_issues": 3,
             "owner": "tinysearch",
             "repo": "tinysearch",
-            "stars": 2977,
+            "stars": 2976,
             "topics": [
               "bloom-filter",
               "elasticlunr",
@@ -511,16 +511,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:04:39.129Z",
+    "last_updated": "2026-10-12T22:11:01.370Z",
     "original_repository_info": {
-      "archived": false,
+      "archived": true,
       "description": "📄 🛠 A curated list of awesome static websites services",
       "homepage": null,
       "id": 31401471,
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-20T16:35:39Z",
-      "open_issues": 40,
+      "open_issues": 39,
       "owner": "agarrharr",
       "repo": "awesome-static-website-services",
       "stars": 1993,
