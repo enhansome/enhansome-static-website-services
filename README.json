@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12150,
+                "stars": 12153,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -82,7 +82,7 @@
                 "open_issues": 131,
                 "owner": "eduardoboucas",
                 "repo": "staticman",
-                "stars": 2450,
+                "stars": 2451,
                 "topics": [
                   "hugo",
                   "jekyll",
@@ -146,7 +146,7 @@
                     "open_issues": 172,
                     "owner": "utterance",
                     "repo": "utterances",
-                    "stars": 9699,
+                    "stars": 9695,
                     "topics": [
                       "blog",
                       "comments",
@@ -221,7 +221,7 @@
             "open_issues": 38,
             "owner": "nextapps-de",
             "repo": "flexsearch",
-            "stars": 13808,
+            "stars": 13807,
             "topics": [
               "elasticsearch",
               "full-text-search",
@@ -257,7 +257,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-09-16T12:43:59Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "lucaong",
             "repo": "minisearch",
             "stars": 6169,
@@ -292,7 +292,7 @@
             "open_issues": 3,
             "owner": "tinysearch",
             "repo": "tinysearch",
-            "stars": 2976,
+            "stars": 2977,
             "topics": [
               "bloom-filter",
               "elasticlunr",
@@ -322,7 +322,7 @@
             "open_issues": 5,
             "owner": "bevacqua",
             "repo": "fuzzysearch",
-            "stars": 2740,
+            "stars": 2741,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
@@ -343,7 +343,7 @@
             "open_issues": 9,
             "owner": "fergiemcdowall",
             "repo": "search-index",
-            "stars": 1421,
+            "stars": 1422,
             "topics": [
               "nlp",
               "offline-first",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:11:01.370Z",
+    "last_updated": "2026-10-13T20:17:50.369Z",
     "original_repository_info": {
       "archived": true,
       "description": "📄 🛠 A curated list of awesome static websites services",
