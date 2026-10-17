@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12164,
+                "stars": 12163,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -79,7 +79,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-04-24T16:29:25Z",
-                "open_issues": 131,
+                "open_issues": 132,
                 "owner": "eduardoboucas",
                 "repo": "staticman",
                 "stars": 2451,
@@ -146,7 +146,7 @@
                     "open_issues": 173,
                     "owner": "utterance",
                     "repo": "utterances",
-                    "stars": 9696,
+                    "stars": 9697,
                     "topics": [
                       "blog",
                       "comments",
@@ -260,7 +260,7 @@
             "open_issues": 15,
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6171,
+            "stars": 6173,
             "topics": [
               "autocomplete",
               "autosuggestion",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:14:05.881Z",
+    "last_updated": "2026-10-17T17:23:49.032Z",
     "original_repository_info": {
       "archived": true,
       "description": "📄 🛠 A curated list of awesome static websites services",
