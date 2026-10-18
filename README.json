@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-05-26T22:20:10Z",
-                "open_issues": 127,
+                "open_issues": 128,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12163,
+                "stars": 12165,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -339,8 +339,8 @@
             "id": 11170365,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T05:53:30Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-18T12:28:55Z",
+            "open_issues": 10,
             "owner": "fergiemcdowall",
             "repo": "search-index",
             "stars": 1422,
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:23:49.032Z",
+    "last_updated": "2026-10-18T17:27:22.683Z",
     "original_repository_info": {
       "archived": true,
       "description": "📄 🛠 A curated list of awesome static websites services",
@@ -520,7 +520,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-20T16:35:39Z",
-      "open_issues": 40,
+      "open_issues": 39,
       "owner": "agarrharr",
       "repo": "awesome-static-website-services",
       "stars": 1993,
