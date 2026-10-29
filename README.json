@@ -260,7 +260,7 @@
             "open_issues": 15,
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6187,
+            "stars": 6186,
             "topics": [
               "autocomplete",
               "autosuggestion",
@@ -292,7 +292,7 @@
             "open_issues": 3,
             "owner": "tinysearch",
             "repo": "tinysearch",
-            "stars": 2978,
+            "stars": 2979,
             "topics": [
               "bloom-filter",
               "elasticlunr",
@@ -466,7 +466,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-22T00:22:46Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "MooseTheRebel",
             "repo": "awesome-static-hosting-and-cms",
             "stars": 311,
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:42:15.187Z",
+    "last_updated": "2026-10-29T19:44:06.346Z",
     "original_repository_info": {
       "archived": true,
       "description": "📄 🛠 A curated list of awesome static websites services",
@@ -523,7 +523,7 @@
       "open_issues": 40,
       "owner": "agarrharr",
       "repo": "awesome-static-website-services",
-      "stars": 1994,
+      "stars": 1993,
       "topics": [
         "awesome",
         "awesome-list",

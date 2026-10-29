@@ -2,7 +2,7 @@
 
 > A curated list of services for static websites.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,235 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,763 | 🐛 105 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -222,8 +222,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,235 |
 Self-hosted:
 
 * [flexsearch](https://github.com/nextapps-de/flexsearch) ⭐ 13,813 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-28 - Next-Generation full text search library for Browser and Node.js
-* [minisearch](https://github.com/lucaong/minisearch) ⭐ 6,187 | 🐛 15 | 🌐 TypeScript | 📅 2025-09-16 - Tiny and powerful JavaScript full-text search engine for browser and Node
-* [tinysearch](https://github.com/tinysearch/tinysearch) ⭐ 2,978 | 🐛 3 | 🌐 Rust | 📅 2026-09-14 - Tiny, full-text search engine for static websites built with Rust and Wasm
+* [minisearch](https://github.com/lucaong/minisearch) ⭐ 6,186 | 🐛 15 | 🌐 TypeScript | 📅 2025-09-16 - Tiny and powerful JavaScript full-text search engine for browser and Node
+* [tinysearch](https://github.com/tinysearch/tinysearch) ⭐ 2,979 | 🐛 3 | 🌐 Rust | 📅 2026-09-14 - Tiny, full-text search engine for static websites built with Rust and Wasm
 * [fuzzysearch](https://github.com/bevacqua/fuzzysearch) ⭐ 2,740 | 🐛 5 | 🌐 JavaScript | 📅 2023-05-31 - Tiny and blazing-fast fuzzy search in JavaScript
 * [search-index](https://github.com/fergiemcdowall/search-index) ⭐ 1,423 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-28 - A persistent, network resilient, full text search library for the browser and Node.js
 * [fuzzy](https://github.com/mattyork/fuzzy) ⭐ 834 | 🐛 29 | 🌐 JavaScript | 📅 2021-12-20 - Fuzzy search / filter for browser and node
@@ -262,7 +262,7 @@ Third party integration:
 
 ## Related Lists
 
-* [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting) ⭐ 311 | 🐛 8 | 🌐 Python | 📅 2026-06-22
+* [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting) ⭐ 311 | 🐛 9 | 🌐 Python | 📅 2026-06-22
 * [Awesome Azure Static Web Apps](https://github.com/staticwebdev/awesome-azure-static-web-apps) ⭐ 95 | 🐛 0 | 📅 2022-12-13
 
 ***
@@ -275,4 +275,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
