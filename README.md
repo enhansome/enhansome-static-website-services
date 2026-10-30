@@ -2,7 +2,7 @@
 
 > A curated list of services for static websites.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,763 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 527,405 | 🐛 105 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -87,7 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,763 |
 
 ## Functions as a Service
 
-* [1Backend](https://github.com/1backend/1backend) ⭐ 2,354 | 🐛 5 | 🌐 Go | 📅 2026-05-27 - Deploy your backend in seconds. Free tier included. Open source.
+* [1Backend](https://github.com/1backend/1backend) ⭐ 2,355 | 🐛 5 | 🌐 Go | 📅 2026-05-27 - Deploy your backend in seconds. Free tier included. Open source.
 * [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
 * [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
 * [Webtask by Auth0](https://webtask.io/) - Call code on the server with simple HTTP, easier to set up by far than Lambda or Google's
@@ -110,8 +110,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,763 |
 
 ### Comments
 
-* [giscus](https://github.com/laymonage/giscus) ⭐ 12,189 | 🐛 129 | 🌐 TypeScript | 📅 2026-05-26 - A comments widget built on GitHub Discussions.
-* [Gitment](https://github.com/imsun/gitment) ⭐ 4,044 | 🐛 138 | 🌐 JavaScript | 📅 2021-10-05 - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
+* [giscus](https://github.com/laymonage/giscus) ⭐ 12,192 | 🐛 129 | 🌐 TypeScript | 📅 2026-05-26 - A comments widget built on GitHub Discussions.
+* [Gitment](https://github.com/imsun/gitment) ⭐ 4,043 | 🐛 138 | 🌐 JavaScript | 📅 2021-10-05 - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
 * [Staticman](https://github.com/eduardoboucas/staticman) ⭐ 2,449 | 🐛 133 | 🌐 JavaScript | 📅 2024-04-24 - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
 * [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
 * [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - Embeddable comments for your site by Facebook.
@@ -221,8 +221,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,763 |
 
 Self-hosted:
 
-* [flexsearch](https://github.com/nextapps-de/flexsearch) ⭐ 13,813 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-28 - Next-Generation full text search library for Browser and Node.js
-* [minisearch](https://github.com/lucaong/minisearch) ⭐ 6,186 | 🐛 15 | 🌐 TypeScript | 📅 2025-09-16 - Tiny and powerful JavaScript full-text search engine for browser and Node
+* [flexsearch](https://github.com/nextapps-de/flexsearch) ⭐ 13,814 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-28 - Next-Generation full text search library for Browser and Node.js
+* [minisearch](https://github.com/lucaong/minisearch) ⭐ 6,190 | 🐛 15 | 🌐 TypeScript | 📅 2025-09-16 - Tiny and powerful JavaScript full-text search engine for browser and Node
 * [tinysearch](https://github.com/tinysearch/tinysearch) ⭐ 2,979 | 🐛 3 | 🌐 Rust | 📅 2026-09-14 - Tiny, full-text search engine for static websites built with Rust and Wasm
 * [fuzzysearch](https://github.com/bevacqua/fuzzysearch) ⭐ 2,740 | 🐛 5 | 🌐 JavaScript | 📅 2023-05-31 - Tiny and blazing-fast fuzzy search in JavaScript
 * [search-index](https://github.com/fergiemcdowall/search-index) ⭐ 1,423 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-28 - A persistent, network resilient, full text search library for the browser and Node.js
@@ -275,4 +275,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
