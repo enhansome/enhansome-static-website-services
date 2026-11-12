@@ -21,7 +21,7 @@
                 "open_issues": 129,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12216,
+                "stars": 12219,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:28:42.195Z",
+    "last_updated": "2026-11-12T21:31:16.964Z",
     "original_repository_info": {
       "archived": true,
       "description": "📄 🛠 A curated list of awesome static websites services",

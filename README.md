@@ -2,7 +2,7 @@
 
 > A curated list of services for static websites.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,301 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,894 | 🐛 103 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -110,7 +110,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,301 |
 
 ### Comments
 
-* [giscus](https://github.com/laymonage/giscus) ⭐ 12,216 | 🐛 129 | 🌐 TypeScript | 📅 2026-05-26 - A comments widget built on GitHub Discussions.
+* [giscus](https://github.com/laymonage/giscus) ⭐ 12,219 | 🐛 129 | 🌐 TypeScript | 📅 2026-05-26 - A comments widget built on GitHub Discussions.
 * [Gitment](https://github.com/imsun/gitment) ⭐ 4,040 | 🐛 138 | 🌐 JavaScript | 📅 2021-10-05 - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
 * [Staticman](https://github.com/eduardoboucas/staticman) ⭐ 2,451 | 🐛 133 | 🌐 JavaScript | 📅 2024-04-24 - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
 * [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
@@ -275,4 +275,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
