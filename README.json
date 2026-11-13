@@ -21,7 +21,7 @@
                 "open_issues": 129,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12219,
+                "stars": 12221,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -260,7 +260,7 @@
             "open_issues": 15,
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6197,
+            "stars": 6199,
             "topics": [
               "autocomplete",
               "autosuggestion",
@@ -389,7 +389,7 @@
             "open_issues": 1,
             "owner": "itemsapi",
             "repo": "itemsjs",
-            "stars": 413,
+            "stars": 412,
             "topics": [
               "aggregations",
               "faceted-search",
@@ -466,10 +466,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-22T00:22:46Z",
-            "open_issues": 9,
+            "open_issues": 11,
             "owner": "MooseTheRebel",
             "repo": "awesome-static-hosting-and-cms",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "ghost",
               "gitlab",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:31:16.964Z",
+    "last_updated": "2026-11-13T20:56:23.550Z",
     "original_repository_info": {
       "archived": true,
       "description": "📄 🛠 A curated list of awesome static websites services",
@@ -523,7 +523,7 @@
       "open_issues": 41,
       "owner": "agarrharr",
       "repo": "awesome-static-website-services",
-      "stars": 1995,
+      "stars": 1996,
       "topics": [
         "awesome",
         "awesome-list",
