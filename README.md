@@ -2,7 +2,7 @@
 
 > A curated list of services for static websites.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,992 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 540,476 | 🐛 103 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -87,7 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,992 |
 
 ## Functions as a Service
 
-* [1Backend](https://github.com/1backend/1backend) ⭐ 2,354 | 🐛 6 | 🌐 Go | 📅 2026-05-27 - Deploy your backend in seconds. Free tier included. Open source.
+* [1Backend](https://github.com/1backend/1backend) ⭐ 2,354 | 🐛 7 | 🌐 Go | 📅 2026-05-27 - Deploy your backend in seconds. Free tier included. Open source.
 * [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
 * [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
 * [Webtask by Auth0](https://webtask.io/) - Call code on the server with simple HTTP, easier to set up by far than Lambda or Google's
@@ -110,7 +110,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,992 |
 
 ### Comments
 
-* [giscus](https://github.com/laymonage/giscus) ⭐ 12,236 | 🐛 129 | 🌐 TypeScript | 📅 2026-05-26 - A comments widget built on GitHub Discussions.
+* [giscus](https://github.com/laymonage/giscus) ⭐ 12,235 | 🐛 129 | 🌐 TypeScript | 📅 2026-05-26 - A comments widget built on GitHub Discussions.
 * [Gitment](https://github.com/imsun/gitment) ⭐ 4,038 | 🐛 138 | 🌐 JavaScript | 📅 2021-10-05 - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
 * [Staticman](https://github.com/eduardoboucas/staticman) ⭐ 2,450 | 🐛 133 | 🌐 JavaScript | 📅 2024-04-24 - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
 * [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
@@ -275,4 +275,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
