@@ -21,7 +21,7 @@
                 "open_issues": 130,
                 "owner": "giscus",
                 "repo": "giscus",
-                "stars": 12242,
+                "stars": 12244,
                 "topics": [
                   "blog",
                   "comment-system",
@@ -143,10 +143,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2024-08-15T15:04:06Z",
-                    "open_issues": 173,
+                    "open_issues": 174,
                     "owner": "utterance",
                     "repo": "utterances",
-                    "stars": 9706,
+                    "stars": 9708,
                     "topics": [
                       "blog",
                       "comments",
@@ -260,7 +260,7 @@
             "open_issues": 14,
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6210,
+            "stars": 6211,
             "topics": [
               "autocomplete",
               "autosuggestion",
@@ -292,7 +292,7 @@
             "open_issues": 3,
             "owner": "tinysearch",
             "repo": "tinysearch",
-            "stars": 2979,
+            "stars": 2981,
             "topics": [
               "bloom-filter",
               "elasticlunr",
@@ -322,7 +322,7 @@
             "open_issues": 5,
             "owner": "bevacqua",
             "repo": "fuzzysearch",
-            "stars": 2738,
+            "stars": 2737,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:00.363Z"
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:34:11.373Z",
+    "last_updated": "2026-11-25T23:11:31.551Z",
     "original_repository_info": {
       "archived": true,
       "description": "📄 🛠 A curated list of awesome static websites services",
